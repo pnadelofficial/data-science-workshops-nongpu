@@ -24,3 +24,4 @@ requests
 flask
 beautifulsoup4
 lxml
+Pillow
