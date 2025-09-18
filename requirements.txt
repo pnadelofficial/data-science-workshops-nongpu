@@ -16,6 +16,8 @@ pyarrow
 plotly
 bokeh
 jupyter
+ipykernel
+ipython
 ipywidgets
 joblib
 requests
