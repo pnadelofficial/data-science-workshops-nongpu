@@ -19,3 +19,6 @@ jupyter
 ipywidgets
 joblib
 requests
+flask
+beautifulsoup4
+lxml
