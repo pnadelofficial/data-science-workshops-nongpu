@@ -10,7 +10,6 @@ nltk
 tqdm
 openpyxl
 sqlalchemy
-sqlite3
 xgboost
 lightgbm
 pyarrow
@@ -19,3 +18,4 @@ bokeh
 jupyter
 ipywidgets
 joblib
+requests
